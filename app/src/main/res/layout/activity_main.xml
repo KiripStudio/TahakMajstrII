@@ -24,7 +24,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:onClick="setToMath"
-        android:text="Matematika"
+        android:text="@string/math_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="0dp" />
@@ -39,7 +39,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:onClick="setToPhys"
-        android:text="Fyzika"
+        android:text="@string/phys_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"

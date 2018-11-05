@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TahakMajstr</string>
+    <string name="math_button">Matematika</string>
+    <string name="phys_button">Fyzika</string>
+    <string name="math_units">Jednotky</string>
+    <string name="math_pyth">Pythagorova věta</string>
 </resources>
